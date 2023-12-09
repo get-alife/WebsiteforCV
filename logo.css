@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Cinzel:400,700,900|Lato:100,300,400,700,900|Lobster|Lora:400,700|Mansalva|Muli:200,300,400,600,700,800,900|Open+Sans:300,400,600,700,800|Oswald:200,300,400,500,600,700|Roboto:100,300,400,500,700,900&display=swap');
+ 
+body{
+  /* font-size:17px;
+  color:#424242;
+  font-family: 'Open Sans', sans-serif; */
+  background-color: rgb(48, 48, 158);
+  /* #ffffffee */
+  background-image: url("https://www.transparenttextures.com/patterns/xv.png");
+  
+  } 
+h1, h2, h3, h4, h5, h6, p{
+  margin:0px;
+  padding-left: 1600px;
+  padding-bottom: 2000px;
+
+}
+
+
+/* Logo-4 */
+.logo-4 h3 {
+    color: azure;
+    font-weight: 10px;
+    font-size: 20px;
+    line-height: 0.65;
+    font-family: 'Lobster', cursive;
+}
+
+ 
+
